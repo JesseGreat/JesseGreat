@@ -1,4 +1,4 @@
-<img align='right' width='1000' src='https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif'>
+<img align='right' width='400' src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif'>
 
 <h1 align="center">Hi 👋, I'm JesseGreat</h1>
 <h3 align="center">A Python Backend SE</h3>
