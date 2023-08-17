@@ -1,4 +1,4 @@
-<img align='center' width='800' src='https://simpleprogrammer.com/wp-content/uploads/2023/05/Coding-Desk.jpg'>
+<img align='center' width='1020' src='https://simpleprogrammer.com/wp-content/uploads/2023/05/Coding-Desk.jpg'>
 
 <h1 align="center">Hi 👋, I'm JesseGreat</h1>
 <h3 align="center">A Python Backend SE</h3>
