@@ -10,7 +10,7 @@
 
 🌱 I’m currently increasing more **building**
 
-- 👯 I’m looking to collaborate on **Python (Flask, django) Projects**
+- 👯 I’m looking to collaborate on **Python (Flask, django), AWS, WordPress Projects**
 
 🤝 I’m looking for more expereince **With projects and internship opportunities in being a better SE**
 
